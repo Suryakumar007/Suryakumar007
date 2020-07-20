@@ -18,3 +18,5 @@ I’m a pasionate developer from India.
 - 🎓 Graduated MCA from PSG College Of Technology, Coimbatore.
 - 🌱 I’m currently learning Frontend, especially React.
 - 😄 Pronouns: He/Him.
+- 🔭 2+ years experienced in Cognizant.
+- 🔭 Interned at EY.
