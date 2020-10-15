@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a pasionate developer from India.
+I’m a pasionate software developer from India.
+- 🌱 Implementation Specialist @ Yellow Messenger
 - 🎓 Graduated MCA from PSG College Of Technology, Coimbatore.
 - 🌱 I’m currently learning Frontend, especially React.
 - 😄 Pronouns: He/Him.
