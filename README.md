@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 I’m a pasionate software developer from India.
-- 🌱 Implementation Specialist @ Yellow Messenger
+- 🌱 Software Engineer @ Yellow Messenger
 - 🎓 Graduated MCA from PSG College Of Technology, Coimbatore.
-- 🌱 I’m currently learning Frontend, especially React.
 - 😄 Pronouns: He/Him.
-- 🔭 2+ years experienced in Cognizant.
-- 🔭 Interned at EY.
+- 🔭 Ex Intern EY/ Zoho.
